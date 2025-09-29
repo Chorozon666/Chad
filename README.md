@@ -164,12 +164,7 @@ Scrapes up to 3 pages per dork.
 
 
 
-Output Files
 
-URLs Output (--output):
-Contains unique URLs scraped from Google search results.
-Format: One URL per line.
-Example:http://192.
 
 
 
